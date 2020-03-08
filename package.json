@@ -1,0 +1,40 @@
+{
+  "name": "timofeevtravelsite",
+  "version": "1.0.0",
+  "description": "TUS-gulp-package-assembly-for-works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "npm",
+    "package",
+    "start"
+  ],
+  "author": "Timofeev Yuri Sergeevich",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "browser-sync": "^2.26.7",
+    "run-sequence": "^2.2.1",
+    "sass": "^1.23.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "del": "^5.1.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.13.1"
+  }
+}
